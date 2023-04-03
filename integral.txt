@@ -1,0 +1,8 @@
+  Aslında integral basit bir toplama işlemi. Yoksa üssü bir arttırıp ,arttırdığın sayıya bölmenin ne gibi bir mantığı olabilir ki.
+ Basit düşünelim 2 adet elmamız varsa 2 tane daha eklersek 4 olur integral aslında budur.
+
+  İntegralin önemini bir mühendsilk öğrencisi olarak şu şekilde anlatabilirim. Elmaları düşünelim temel anlamda integral bunları 
+  toplamaktan ibaretti, peki biz bu elmaların yüzey hacimlerini, ya da boyutlarını toplamak istersek. İşte integral asıl olarak 
+  burda devereye giriyor. Düzgün olmayan şekilerin alanlarını hacimlerini hesaplamakta kullanıyoruz. Örneğin elinize bir kağıt 
+  alın ve x düzleminde bir doğru çizin altında kalan alnı hesaplamak çok kolay değil mi x ve y eksnindeki noktaları çarparak buluruz.
+  Şimdi de bir prabol çizin ve altında kalan alanı hesaplayın, daha zor değil mi? işte integral bize bunu sağlar.
